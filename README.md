@@ -3,7 +3,7 @@
 <br />
 
 <h1 align="center">Hi 👋, I'm Alley</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">Frontend developer</h3>
 
 <br />
 <br />
@@ -26,7 +26,7 @@
 <br />
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=alleyful&show_icons=true&hide=issues,contribs&theme=dracula" alt="alleyful" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alleyful&layout=compact&hide=html&langs_count=4&theme=dracula" alt="alleyful" />
+<img src="https://github-readme-stats.vercel.app/api?username=alleyful&show_icons=true&hide=issues,contribs&theme=dracula" alt="alleyful" height="140"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alleyful&layout=compact&hide=html&langs_count=4&theme=dracula" alt="alleyful" height="140"/>
 </p>
 
