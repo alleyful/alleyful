@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alleyful</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alleyful" alt="alleyful" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=alleyful" alt="alleyful" /> </p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/>
@@ -18,9 +18,6 @@
   <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/webpack/webpack-original.svg" alt="webpack" width="40" height="40"/>
 </p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alleyful&layout=compact&hide=html" alt="alleyful" /></p>
 
-<div align="center">
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alleyful&layout=compact&hide=issues,contribs&show_icons=true" alt="alleyful" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=alleyful&show_icons=true&hide=html" alt="alleyful" /></p>
-</div>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=alleyful&show_icons=true&hide=issues,contribs" alt="alleyful" /></p>
