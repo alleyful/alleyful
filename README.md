@@ -27,6 +27,6 @@
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=alleyful&show_icons=true&hide=issues,contribs&theme=dracula" alt="alleyful" />
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alleyful&layout=compact&hide=html&langs_count=4" alt="alleyful" /> -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alleyful&layout=compact&hide=html&langs_count=4&theme=dracula" alt="alleyful" />
 </p>
 
